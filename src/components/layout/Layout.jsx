@@ -1,6 +1,6 @@
 import React from "react";
 import Footer from "../footer/Footer";
-import Header from "../footer/Header";
+import Header from "../header/Header";
 import Styles from "./Layout.module.css";
 const Layout = ({ children }) => {
   return (
